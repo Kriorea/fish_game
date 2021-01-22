@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 851b9be2e0d3a9446beb31f197508068
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - poisonedFish1: {fileID: 1806023427892495709, guid: bf8497a5f1edbbb49a3a449311078d6a,
+      type: 3}
+  - Fish_2: {fileID: 6617109496840122204, guid: 7e56a890097e14643bfb71a34fcd5cd0,
+      type: 3}
+  - poisonedFish3: {fileID: 5106990006895662939, guid: 5b20bd869d75b8f4aa75232e316f5dae,
+      type: 3}
+  - Fish_4: {fileID: 1212105366589820479, guid: 8a267481d22e01549b6ca7d3efddf135,
+      type: 3}
+  - Fish_5: {fileID: 498789410382005459, guid: b126154c5e386ea4e8bffd3d8fa2646a, type: 3}
+  - Fish_6: {fileID: 6476235139488560796, guid: 9a96abe587f1acf4281b10320826f89e,
+      type: 3}
+  - poisoned_Fish7: {fileID: 383827534852410999, guid: 41574abb224c25a4eb798b55cf7eff43,
+      type: 3}
+  - fish_spawner: {fileID: 633286762766075390, guid: 3d603310235b1f0458b8278afd4608e9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

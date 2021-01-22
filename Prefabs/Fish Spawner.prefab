@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &633286762766075384
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 633286762766075390}
+  - component: {fileID: 633286762766075385}
+  m_Layer: 0
+  m_Name: Fish Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &633286762766075390
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633286762766075384}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 12, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &633286762766075385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633286762766075384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 851b9be2e0d3a9446beb31f197508068, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poisonedFish1: {fileID: 1806023427892495709, guid: bf8497a5f1edbbb49a3a449311078d6a,
+    type: 3}
+  Fish_2: {fileID: 6617109496840122204, guid: 7e56a890097e14643bfb71a34fcd5cd0, type: 3}
+  poisonedFish3: {fileID: 5106990006895662939, guid: 5b20bd869d75b8f4aa75232e316f5dae,
+    type: 3}
+  Fish_4: {fileID: 1212105366589820479, guid: 8a267481d22e01549b6ca7d3efddf135, type: 3}
+  Fish_5: {fileID: 498789410382005459, guid: b126154c5e386ea4e8bffd3d8fa2646a, type: 3}
+  Fish_6: {fileID: 6476235139488560796, guid: 9a96abe587f1acf4281b10320826f89e, type: 3}
+  poisoned_Fish7: {fileID: 383827534852410999, guid: 41574abb224c25a4eb798b55cf7eff43,
+    type: 3}
+  fish_spawner: {fileID: 633286762766075390}
+  fish_spawner2: {fileID: 633286762766075390, guid: 37ab81f005813804d8949ab111ed55ba,
+    type: 3}
+  TimeSpawn: 5
+  fish_spawnValues: {x: 0, y: 4}

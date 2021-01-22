@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d9ccd6acc0b6444ba9d99dc530ccde4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundFX: {instanceID: 0}
+  - eatClip: {fileID: 8300000, guid: e77ef192ff407d14992ecdca1adeb84b, type: 3}
+  - gameOverClip: {fileID: 8300000, guid: fec8892080a6552459495281f7c3229c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
